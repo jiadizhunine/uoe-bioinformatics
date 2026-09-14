@@ -8,7 +8,6 @@
 
 - **[在线阅读完整指南](./docs/course-guide.zh-CN.md)**
 - **[下载 PDF（41 页）](./downloads/course-guide-2026-27.pdf?raw=true)**
-- [版本与发布记录](https://github.com/jiadizhunine/uoe-bioinformatics/releases)
 
 无需安装。Markdown 适合在线检索和跳转，PDF 适合离线阅读、打印与分享。指南正文为简体中文，课程名称和代码保留英文。
 
@@ -25,10 +24,8 @@
 ## 先看这几条
 
 - **不是学校官方指南，也不是学生口碑调查。** 1–5 分难度由 LLM 判断，不能预测成绩；基础、兴趣和实际授课安排都会改变体验。
-- **MATH11205 Machine Learning in Python：本版建议不选。** 这是面向控制学习风险的保守建议，不是官方禁选要求，也不是“所有学生都觉得难”的事实断言。
-- **PGBI11126 Population Genomic Analysis 已收录。** S2 / Block 3，10 学分；每周 quiz 25% + 第 5 周限时上机 75%。它至少在 2021/22 已存在，但相较 2025/26 新列入本专业的 2026/27 选修表，不应误称全新课程。
+- **MATH11205 Machine Learning in Python：本版建议不选。**
 - **有笔试不一定更难，无笔试不一定省力。** 实验、团队项目和长报告的时间成本同样重要。
-- 表中的 Total Hours 是名义学习量，不是每周课时或真实耗时预测；选课需另外核对先修、名额、审批与课表。
 
 ## 信息日期与官方入口
 

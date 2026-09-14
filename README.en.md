@@ -8,7 +8,6 @@ An unofficial reference for the University of Edinburgh MSc Bioinformatics: cour
 
 - **[Read the complete guide in Simplified Chinese](./docs/course-guide.zh-CN.md)**
 - **[Download the PDF (41 pages, Chinese)](./downloads/course-guide-2026-27.pdf?raw=true)**
-- [Versions and release history](https://github.com/jiadizhunine/uoe-bioinformatics/releases)
 
 No installation is required. Markdown supports online reading and navigation; the PDF supports offline reading, printing and sharing. The guide itself is in Simplified Chinese, with English course names and codes retained.
 
@@ -25,10 +24,8 @@ No installation is required. Markdown supports online reading and navigation; th
 ## Important Limitations
 
 - **This is neither an official university guide nor a student survey.** Difficulty ratings on a 1–5 scale are LLM judgments, not grade predictions. Prior knowledge, interests and delivery arrangements matter.
-- **MATH11205 Machine Learning in Python: this edition recommends against selecting it.** This is a conservative workload-risk recommendation, not a university restriction or a claim that all students find it difficult.
-- **PGBI11126 Population Genomic Analysis is included.** S2 / Block 3, 10 credits; weekly quizzes 25% plus a timed computer practical in week 5 worth 75%. It existed by 2021/22 but is newly listed in this programme's 2026/27 options compared with the 2025/26 DPT; it is not a brand-new course.
+- **MATH11205 Machine Learning in Python: this edition recommends against selecting it.**
 - **Exams do not automatically make a course harder; coursework does not automatically make it easier.** Labs, group projects and long reports also require substantial time.
-- Total Hours means nominal study effort, not weekly contact hours or predicted actual effort. Check prerequisites, availability, approval and timetable compatibility separately.
 
 ## Dates and Official Sources
 
