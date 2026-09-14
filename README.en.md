@@ -6,10 +6,12 @@ An unofficial reference for the University of Edinburgh MSc Bioinformatics: cour
 
 ## Read and Download
 
-- **[Read the complete guide in Simplified Chinese](./docs/course-guide.zh-CN.md)**
-- **[Download the PDF (41 pages, Chinese)](./downloads/course-guide-2026-27.pdf?raw=true)**
+| Language | Read online | Download |
+|---|---|---|
+| English | [Complete guide](./docs/course-guide.en.md) | [English PDF (45 pages)](./downloads/course-guide-2026-27.en.pdf?raw=true) |
+| Simplified Chinese | [Complete guide](./docs/course-guide.zh-CN.md) | [Chinese PDF (41 pages)](./downloads/course-guide-2026-27.pdf?raw=true) |
 
-No installation is required. Markdown supports online reading and navigation; the PDF supports offline reading, printing and sharing. The guide itself is in Simplified Chinese, with English course names and codes retained.
+The complete guide is available in English and Simplified Chinese, in both Markdown and PDF. Markdown supports online reading and navigation; PDFs support offline reading, printing and sharing.
 
 ## Coverage
 
@@ -29,7 +31,7 @@ No installation is required. Markdown supports online reading and navigation; th
 
 ## Dates and Official Sources
 
-Version: `v1.0.0`, 2026-09-14. The DPT, MATH11205 and PGBI11126 pages were checked on that date. Other course and past-paper information retains its 2026-08-14/15 review dates and has not been revalidated item by item. Current Learn, MyEd and written course-organiser guidance take precedence.
+Version: `v1.1.0`, 2026-09-14. The DPT, MATH11205 and PGBI11126 pages were checked on that date. Other course and past-paper information retains its 2026-08-14/15 review dates and has not been revalidated item by item. Current Learn, MyEd and written course-organiser guidance take precedence.
 
 - [2026/27 Bioinformatics MSc DPT](https://www.drps.ed.ac.uk/26-27/dpt/ptmscbioin1f.htm)
 - [Official MATH11205 course page](https://www.drps.ed.ac.uk/26-27/dpt/cxmath11205.htm)

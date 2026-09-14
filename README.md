@@ -6,10 +6,12 @@
 
 ## 阅读与下载
 
-- **[在线阅读完整指南](./docs/course-guide.zh-CN.md)**
-- **[下载 PDF（41 页）](./downloads/course-guide-2026-27.pdf?raw=true)**
+| 语言 | 在线阅读 | 下载 |
+|---|---|---|
+| 简体中文 | [完整指南](./docs/course-guide.zh-CN.md) | [中文 PDF（41 页）](./downloads/course-guide-2026-27.pdf?raw=true) |
+| English | [Complete guide](./docs/course-guide.en.md) | [English PDF（45 页）](./downloads/course-guide-2026-27.en.pdf?raw=true) |
 
-无需安装。Markdown 适合在线检索和跳转，PDF 适合离线阅读、打印与分享。指南正文为简体中文，课程名称和代码保留英文。
+完整指南提供中英文 Markdown 和 PDF。Markdown 适合在线检索和跳转，PDF 适合离线阅读、打印与分享。
 
 ## 有什么
 
@@ -29,7 +31,7 @@
 
 ## 信息日期与官方入口
 
-版本：`v1.0.0`，2026-09-14。DPT、MATH11205 与 PGBI11126 页面于该日核对；其他课程和试卷资料保留 2026-08-14/15 的整理结果，尚未逐项重新核验。最终安排以当届 Learn、MyEd 与课程负责人书面说明为准。
+版本：`v1.1.0`，2026-09-14。DPT、MATH11205 与 PGBI11126 页面于该日核对；其他课程和试卷资料保留 2026-08-14/15 的整理结果，尚未逐项重新核验。最终安排以当届 Learn、MyEd 与课程负责人书面说明为准。
 
 - [2026/27 Bioinformatics MSc DPT](https://www.drps.ed.ac.uk/26-27/dpt/ptmscbioin1f.htm)
 - [MATH11205 官方课程页](https://www.drps.ed.ac.uk/26-27/dpt/cxmath11205.htm)

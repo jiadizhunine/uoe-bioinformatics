@@ -1,5 +1,7 @@
 # 爱丁堡大学 MSc Bioinformatics 2026/27
 
+[English](./course-guide.en.md) | **简体中文**
+
 ## 课程与历年试卷参考
 
 课程信息、历年试卷链接、题型分析和公开学生经验。
